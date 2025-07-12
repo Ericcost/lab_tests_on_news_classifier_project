@@ -1,5 +1,7 @@
 # NLP News Analyzer 📰
 
+Projet à retrouver en cliquant sur ce [lien](https://github.com/Ericcost/lab_tests_on_news_classifier_project)
+
 ## Présentation du projet
 
 NLP News Analyzer est une application interactive développée avec **Streamlit** qui permet d’extraire, nettoyer, analyser et visualiser des articles de presse. Ce projet couvre plusieurs étapes essentielles du traitement automatique du langage naturel (NLP) :
